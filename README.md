@@ -7,6 +7,7 @@ This is a place to save my useful links (tools, resources etc), mainly used for 
 <h3>📜 Reference and cheat sheets</h3>
 
 - [A-Z Index of Windows CMD commands](https://ss64.com/nt/) - Comprehensive list of commands that can be executed in the Windows command prompt
+- [OWASP favicon database](https://wiki.owasp.org/index.php/OWASP_favicon_database)
 
 <h3>🔧 Tools</h3>
 
