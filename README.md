@@ -11,7 +11,8 @@ This is a place to save my useful links (tools, resources etc), mainly used for 
 
 <h3>🔧 Tools</h3>
 
-- [Gobuster](https://github.com/OJ/gobuster) - free tool used to bruteforce URLs, DNS, etc. Simpler to use than ffuf but is less advanced and flexible.
+- [CrackStation](https://crackstation.net/) - Free Password Hash Cracker
+- [Gobuster](https://github.com/OJ/gobuster) - free tool used to bruteforce URLs, DNS, etc. Simpler to use than ffuf but is less advanced and flexible
 - [Sublist3r](https://github.com/aboul3la/Sublist3r) - free python tool designed for subdomain enumeration using OSINT. Tutorial and examples available [here](https://linuxhint.com/sublist3r-for-enumerate-subdomains/)
 - [URLscan.io](https://urlscan.io/) -  free service to scan and analyse websites
 
